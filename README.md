@@ -1,2 +1,2 @@
 # CSasic
-My explorations into interrupted languages.
+My explorations into interpreted languages.

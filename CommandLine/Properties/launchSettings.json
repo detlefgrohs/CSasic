@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommandLine": {
+      "commandName": "Project",
+      "commandLineArgs": "./AllFeatureTest.csasic"
+    }
+  }
+}

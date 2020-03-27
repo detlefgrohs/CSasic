@@ -1,0 +1,15 @@
+C:\Users\Detlef Grohs\source\repos\CSasic\CommandLine\bin\Debug\netcoreapp3.1\CSasic.CommandLine.exe
+C:\Users\Detlef Grohs\source\repos\CSasic\CommandLine\bin\Debug\netcoreapp3.1\CSasic.CommandLine.deps.json
+C:\Users\Detlef Grohs\source\repos\CSasic\CommandLine\bin\Debug\netcoreapp3.1\CSasic.CommandLine.runtimeconfig.json
+C:\Users\Detlef Grohs\source\repos\CSasic\CommandLine\bin\Debug\netcoreapp3.1\CSasic.CommandLine.runtimeconfig.dev.json
+C:\Users\Detlef Grohs\source\repos\CSasic\CommandLine\bin\Debug\netcoreapp3.1\CSasic.CommandLine.dll
+C:\Users\Detlef Grohs\source\repos\CSasic\CommandLine\bin\Debug\netcoreapp3.1\CSasic.CommandLine.pdb
+C:\Users\Detlef Grohs\source\repos\CSasic\CommandLine\bin\Debug\netcoreapp3.1\CSasic.dll
+C:\Users\Detlef Grohs\source\repos\CSasic\CommandLine\bin\Debug\netcoreapp3.1\CSasic.pdb
+C:\Users\Detlef Grohs\source\repos\CSasic\CommandLine\obj\Debug\netcoreapp3.1\CommandLine.csprojAssemblyReference.cache
+C:\Users\Detlef Grohs\source\repos\CSasic\CommandLine\obj\Debug\netcoreapp3.1\CommandLine.AssemblyInfoInputs.cache
+C:\Users\Detlef Grohs\source\repos\CSasic\CommandLine\obj\Debug\netcoreapp3.1\CommandLine.AssemblyInfo.cs
+C:\Users\Detlef Grohs\source\repos\CSasic\CommandLine\obj\Debug\netcoreapp3.1\CommandLine.csproj.CopyComplete
+C:\Users\Detlef Grohs\source\repos\CSasic\CommandLine\obj\Debug\netcoreapp3.1\CSasic.CommandLine.dll
+C:\Users\Detlef Grohs\source\repos\CSasic\CommandLine\obj\Debug\netcoreapp3.1\CSasic.CommandLine.pdb
+C:\Users\Detlef Grohs\source\repos\CSasic\CommandLine\bin\Debug\netcoreapp3.1\AllFeatureTest.csasic

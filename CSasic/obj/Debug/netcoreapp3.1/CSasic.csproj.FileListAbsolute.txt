@@ -1,0 +1,7 @@
+C:\Users\Detlef Grohs\source\repos\CSasic\CSasic\bin\Debug\netcoreapp3.1\CSasic.deps.json
+C:\Users\Detlef Grohs\source\repos\CSasic\CSasic\bin\Debug\netcoreapp3.1\CSasic.dll
+C:\Users\Detlef Grohs\source\repos\CSasic\CSasic\bin\Debug\netcoreapp3.1\CSasic.pdb
+C:\Users\Detlef Grohs\source\repos\CSasic\CSasic\obj\Debug\netcoreapp3.1\CSasic.AssemblyInfoInputs.cache
+C:\Users\Detlef Grohs\source\repos\CSasic\CSasic\obj\Debug\netcoreapp3.1\CSasic.AssemblyInfo.cs
+C:\Users\Detlef Grohs\source\repos\CSasic\CSasic\obj\Debug\netcoreapp3.1\CSasic.dll
+C:\Users\Detlef Grohs\source\repos\CSasic\CSasic\obj\Debug\netcoreapp3.1\CSasic.pdb

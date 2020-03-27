@@ -12,6 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="Mandel.csasic">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Update="AllFeatureTest.csasic">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

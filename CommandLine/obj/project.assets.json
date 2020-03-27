@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic\\CommandLine\\CommandLine.csproj",
+      "projectUniqueName": "C:\\Users\\Detlef Grohs\\Documents\\GitHub\\CSasic\\CommandLine\\CommandLine.csproj",
       "projectName": "CSasic.CommandLine",
-      "projectPath": "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic\\CommandLine\\CommandLine.csproj",
+      "projectPath": "C:\\Users\\Detlef Grohs\\Documents\\GitHub\\CSasic\\CommandLine\\CommandLine.csproj",
       "packagesPath": "C:\\Users\\Detlef Grohs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic\\CommandLine\\obj\\",
+      "outputPath": "C:\\Users\\Detlef Grohs\\Documents\\GitHub\\CSasic\\CommandLine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -57,8 +57,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic\\CSasic\\CSasic.csproj": {
-              "projectPath": "C:\\Users\\Detlef Grohs\\source\\repos\\CSasic\\CSasic\\CSasic.csproj"
+            "C:\\Users\\Detlef Grohs\\Documents\\GitHub\\CSasic\\CSasic\\CSasic.csproj": {
+              "projectPath": "C:\\Users\\Detlef Grohs\\Documents\\GitHub\\CSasic\\CSasic\\CSasic.csproj"
             }
           }
         }
